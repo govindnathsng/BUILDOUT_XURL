@@ -80,10 +80,5 @@ For questions or feedback, feel free to reach out:
 
 Check out my <a href="https://www.crio.do/learn/portfolio/govindnathsng/" target="_blank">Crio Portfolio</a> for more projects like this!
 
-yaml
 
-
----
-
-This README provides a professional structure, covering all aspects of the XURL project with tags for a clear, organized appearance. Let me know if you need any more details or changes!
 
